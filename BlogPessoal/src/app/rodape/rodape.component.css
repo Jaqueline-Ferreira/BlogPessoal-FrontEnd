@@ -1,0 +1,30 @@
+ul.social-network{
+    list-style: none;
+    padding: 0;
+}
+
+ul.social-network li{
+    display: inline;
+    margin: 0;
+    padding: 5px;
+}
+
+.icone-github{
+    font-size: 10pt;
+    color:white;
+    padding: 10;
+}
+
+.icone-linkedin{
+    font-size: 10pt;
+    color:white;
+    padding: 10;
+}
+
+.icone-github :hover{
+    color: rgb(153, 157, 223);
+}
+
+.icone-linkedin :hover{
+    color: rgb(153, 157, 223);
+}
