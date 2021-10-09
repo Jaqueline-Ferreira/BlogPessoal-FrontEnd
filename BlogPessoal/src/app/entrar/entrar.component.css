@@ -1,0 +1,9 @@
+#img-bg{
+    background-image: url(https://th.bing.com/th/id/R.933922a83e4e0a16d60b47386bc4c899?rik=ja8UzuhDWH%2fq%2bQ&riu=http%3a%2f%2fimg2.woyaogexing.com%2f2017%2f12%2f20%2f9711700b1d5264b7!360x360_big.jpg&ehk=wvAVbz6capGK9IiVx%2fOGLXAPgVHSdvKzNc09oVU3Gvg%3d&risl=&pid=ImgRaw&r=0);
+
+    min height: 695px;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
