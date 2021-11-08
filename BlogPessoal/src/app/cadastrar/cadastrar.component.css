@@ -1,8 +1,38 @@
 #img-bg{
-    background-image: url(https://th.bing.com/th/id/R.933922a83e4e0a16d60b47386bc4c899?rik=ja8UzuhDWH%2fq%2bQ&riu=http%3a%2f%2fimg2.woyaogexing.com%2f2017%2f12%2f20%2f9711700b1d5264b7!360x360_big.jpg&ehk=wvAVbz6capGK9IiVx%2fOGLXAPgVHSdvKzNc09oVU3Gvg%3d&risl=&pid=ImgRaw&r=0);
-
-    min height: 695px;
-
+    background-image: url(https://i.pinimg.com/564x/dd/78/73/dd78737442166417c84801d4062bf0ec.jpg);
+    min-height: 695px;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+}
+
+
+.botaocad {
+    font-family: adam;
+      border: none;
+      background: rgb(134, 141, 134);
+      cursor: pointer;
+      border-radius: 3px;
+      padding: 6px;
+      width: 200px;
+      color: rgb(41, 41, 27);
+      margin-left: 25px;
+      box-shadow: 0 3px 6px 0 rgb(245, 241, 241);
+      
+  
+   }
+
+   
+   .botaocanc{  
+  
+    font-family: adam; 
+    border: none;
+    background: rgba(238, 131, 112, 0.918);
+    cursor: pointer;
+    border-radius: 3px;
+    padding: 6px;
+    width: 200px;
+    color: rgb(37, 23, 23);
+    margin-left: 25px;
+    box-shadow: 0 3px 6px 0 rgba(243, 245, 243, 0.932);
+    }

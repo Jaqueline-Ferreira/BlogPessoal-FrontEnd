@@ -1,9 +1,23 @@
 #img-bg{
-    background-image: url(https://th.bing.com/th/id/R.933922a83e4e0a16d60b47386bc4c899?rik=ja8UzuhDWH%2fq%2bQ&riu=http%3a%2f%2fimg2.woyaogexing.com%2f2017%2f12%2f20%2f9711700b1d5264b7!360x360_big.jpg&ehk=wvAVbz6capGK9IiVx%2fOGLXAPgVHSdvKzNc09oVU3Gvg%3d&risl=&pid=ImgRaw&r=0);
-
-    min height: 695px;
-
-    background-position: center;
+    background-image: url(https://i.pinimg.com/564x/81/c5/1f/81c51f0161e73aad67d2686a810ef6f8.jpg);
+    min-height: 695px;
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+
+.botaolog {
+    font-family: adam;
+    border: none;
+    background: rgba(241, 108, 137, 0.938);
+    cursor: pointer;
+    border-radius: 3px;
+    padding: 6px;
+    width: 100px;
+    color: rgb(44, 40, 28);
+    margin-left: -10px;
+    box-shadow: 0 3px 6px 0 rgba(241, 235, 235, 0.945);
+
+ }
+
+ 
